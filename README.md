@@ -1,4 +1,4 @@
-# jeu_des_themes
+# Jeu des thèmes
 
 Exemple d'application mobile pour fêtes/soirées.
 
