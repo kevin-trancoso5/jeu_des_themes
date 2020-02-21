@@ -1,16 +1,15 @@
 # jeu_des_themes
 
-Jeu des thèmes.
+Exemple d'application mobile pour fêtes/soirées.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+Jeu basé sur le principe du jeu des thèmes, un thème est donné et chaque joueur doit essayer de trouver un mot en rapport avec ce dernier, la première personne à se tromper ou à répéter un mot déjà donné perdra automatiquement.
 
-A few resources to get you started if this is your first Flutter project:
+Ici l'application est destinée à une utilisation pour des fêtes ou des soirées et est accompagné d'un mode de jeu "Gage" ou la personne ayant le plus perdu aura un gage à la fin.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A venir
+
+
